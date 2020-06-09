@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99822798-d4e7-4fa9-9024-b97da0bd0a9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ad49viyHrbkeSUolXFIGBlYkIK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99822798-d4e7-4fa9-9024-b97da0bd0a9e" name="Default Changelist" comment="" />
+      <created>1587051988281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587051988281</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1482" y="214" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587801700829">
+      <screen x="-1920" y="9" width="1280" height="700" />
+    </state>
+    <state x="-1482" y="214" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.9.1280.700/0.0.1920.1050@-1920.9.1280.700" timestamp="1587801700829" />
+    <state x="-1778" y="9" key="SettingsEditor" timestamp="1587801579970">
+      <screen x="-1920" y="9" width="1280" height="700" />
+    </state>
+    <state x="-1778" y="9" key="SettingsEditor/-1920.9.1280.700/0.0.1920.1050@-1920.9.1280.700" timestamp="1587801579970" />
+    <state x="-1829" y="50" key="new project wizard" timestamp="1587800933564">
+      <screen x="-1920" y="9" width="1280" height="700" />
+    </state>
+    <state x="-1829" y="50" key="new project wizard/-1920.9.1280.700/0.0.1920.1050@-1920.9.1280.700" timestamp="1587800933564" />
+  </component>
+</project>
