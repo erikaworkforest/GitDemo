@@ -2,10 +2,10 @@ package Tuitorial;
 
 import org.testng.annotations.Test;
 
-public class SeleniumTest {
+public class Push {
 
     @Test
-    public void SeleniumTest(){
+    public void TestPush(){
         System.out.println("Selenium");
         System.out.println("Push this");
         System.out.println("And another one");
