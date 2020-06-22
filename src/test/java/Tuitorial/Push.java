@@ -9,6 +9,8 @@ public class Push {
         System.out.println("Selenium");
         System.out.println("Push this");
         System.out.println("And another one");
+        System.out.println("And another two");
+
     }
 
     @Test
