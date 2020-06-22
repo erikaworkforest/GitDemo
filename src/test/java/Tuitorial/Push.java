@@ -10,6 +10,7 @@ public class Push {
         System.out.println("Push this");
         System.out.println("And another one");
         System.out.println("And another two");
+        System.out.println("And another two");
 
     }
 
